@@ -1,0 +1,4 @@
+road_id,reported_at,traffic_level,condition,report_source
+1,2026-10-15T08:30:00Z,2,dry,sample
+2,2026-10-15T08:30:00Z,3,wet,sample
+3,2026-10-15T08:30:00Z,1,dry,sample
